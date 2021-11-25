@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD:Test omgeving/2/UGOZ_Marcel_Roesink/CCSB/obj/project.nuget.cache
-  "dgSpecHash": "uhNOLV6ZKEQPSHou2H3JSOjhFo7Bxr7eel/75aAIueD/DF/41hlxARMm7LIDQrwBiDCOQkg3AVzHdRmBy6mmrw==",
+  "dgSpecHash": "ttuEMpFofs8jTc9So57Zi7R0rAq2zTPR9COhpKa0NPoa8Stk3YQXxvYXrX3Iu+9NCCURpXnSR8r7mHj7D7KGVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jelle\\CCSB\\Test omgeving\\2\\UGOZ_Marcel_Roesink\\CCSB\\CCSB.csproj",
-=======
-  "dgSpecHash": "iB0SGV2weuEbUew8T9YQZTODoqONpVMIzC/rQpj871i10MsToIiOuHQ6GmaL2NvRJ4vTu7ve0as7utFl2T4DBA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\jesse\\Desktop\\CCSB\\Test omgeving\\2\\CCSB\\CCSB\\CCSB.csproj",
->>>>>>> 73564a6b3e52d83786a1ed95690f95e30fe3c376:Test omgeving/2/CCSB/CCSB/obj/project.nuget.cache
+  "projectFilePath": "E:\\school;\\CCSB\\Test omgeving\\2\\CCSB\\CCSB\\CCSB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jelle\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jelle\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",
@@ -143,5 +137,12 @@
     "C:\\Users\\jelle\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\jelle\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\school;\\CCSB\\Test omgeving\\2\\CCSB\\CCSB\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
