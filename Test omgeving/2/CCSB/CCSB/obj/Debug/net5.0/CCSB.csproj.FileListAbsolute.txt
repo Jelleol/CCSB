@@ -1776,3 +1776,15 @@ C:\Users\jaspe\Documents\CCSB\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CC
 C:\Users\jaspe\Documents\CCSB\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\ref\CCSB.dll
 C:\Users\jaspe\Documents\CCSB\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.pdb
 C:\Users\jaspe\Documents\CCSB\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.genruntimeconfig.cache
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.csproj.AssemblyReference.cache
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.GeneratedMSBuildEditorConfig.editorconfig
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.AssemblyInfoInputs.cache
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.AssemblyInfo.cs
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.csproj.CoreCompileInputs.cache
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.MvcApplicationPartsAssemblyInfo.cs
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.MvcApplicationPartsAssemblyInfo.cache
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.RazorAssemblyInfo.cache
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.RazorAssemblyInfo.cs
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.dll
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\ref\CCSB.dll
+E:\school;\CCSB\Test omgeving\2\CCSB\CCSB\obj\Debug\net5.0\CCSB.pdb

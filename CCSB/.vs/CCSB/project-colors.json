@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d093205-9a7b-4d64-bfad-3c256b06d835": {
+      "ProjectGuid": "3d093205-9a7b-4d64-bfad-3c256b06d835",
+      "DisplayName": "CCSB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

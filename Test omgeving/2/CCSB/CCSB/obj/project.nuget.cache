@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ttuEMpFofs8jTc9So57Zi7R0rAq2zTPR9COhpKa0NPoa8Stk3YQXxvYXrX3Iu+9NCCURpXnSR8r7mHj7D7KGVg==",
+  "dgSpecHash": "TcBGcE5D9zlQe0X/cF7+NmyynUmYXZoXPOCpZ04mwY97zUNRHGQoyh44mhinBoVma+eD52a+tiejMSEocoosIw==",
   "success": true,
   "projectFilePath": "E:\\school;\\CCSB\\Test omgeving\\2\\CCSB\\CCSB\\CCSB.csproj",
   "expectedPackageFiles": [
@@ -137,12 +137,5 @@
     "C:\\Users\\jelle\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\jelle\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\school;\\CCSB\\Test omgeving\\2\\CCSB\\CCSB\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
